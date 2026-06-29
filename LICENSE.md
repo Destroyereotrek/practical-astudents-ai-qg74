@@ -1,4 +1,4 @@
-# 
+# Élite Practical AI Projects for Students modèles. Avec optimisation de modèles et IA de bord — optimisé pour des performances maximales.
 
 
 
